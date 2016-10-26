@@ -1,0 +1,63 @@
+/*styling the nav bar*/
+
+.nav {
+  background-color: black;
+}
+
+.nav h3 {
+  color: white;
+  position: relative;
+  padding-left: 12%;
+  bottom: 5px;
+}
+
+.hero {
+  color: white;
+  background-color: teal;
+  padding: 5% 20%;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;;
+  font-weight: bold;
+}
+
+.hero p {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.whitecenter {
+  max-width: 900px;
+
+}
+
+.whatwedo {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.textboxes {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.latestprojects{
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.insidebox {
+  height: 150px;
+  background-color: gray;
+  margin: 5%;
+}
+
+.bottomh3{
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
